@@ -72,3 +72,11 @@ li {
 em {
     color: lightgray;
 }
+
+#tribute-link {
+    color: lightgray;
+}
+
+#tribute-link:hover {
+    color: lightblue;
+}
